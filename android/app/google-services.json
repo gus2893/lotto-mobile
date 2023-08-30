@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159039375120",
+    "project_id": "lotto-98a02",
+    "storage_bucket": "lotto-98a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159039375120:android:12453a67f76c9218da4795",
+        "android_client_info": {
+          "package_name": "com.example.lotto_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159039375120-hn4m1619ijjq4udalk5siro5ellctue8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCicOTmwRhEDqAW0EW_n374A4nkxDDQ9rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159039375120-hn4m1619ijjq4udalk5siro5ellctue8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159039375120-4rgid5m63ng5v6d72dd2qfkqbbb8h4ka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lottoMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
